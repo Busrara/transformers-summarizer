@@ -40,3 +40,5 @@ pip install torch transformers gradio
 - Hugging Face Transformers: Provides pre-trained transformer models.
 - Gradio: For building an easy-to-use web interface.
 - PyTorch: Deep learning framework for model deployment.
+
+For further understanding, ı higly suggest you to read my writing on this project 👉https://medium.com/@busraracoban/step-by-step-guide-to-building-a-text-summarizer-using-transformers-and-gradio-a76410e37864 
